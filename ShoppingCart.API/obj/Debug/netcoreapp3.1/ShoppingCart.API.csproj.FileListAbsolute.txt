@@ -1,0 +1,329 @@
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.exe
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.deps.json
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.runtimeconfig.json
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.runtimeconfig.dev.json
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.pdb
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Data.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.pdb
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Data.pdb
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csprojAssemblyReference.cache
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.AssemblyInfoInputs.cache
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.AssemblyInfo.cs
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csproj.CoreCompileInputs.cache
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.RazorTargetAssemblyInfo.cache
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csproj.CopyComplete
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCart.API.StaticWebAssets.Manifest.cache
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCart.API.StaticWebAssets.xml
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.dll
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.pdb
+D:\Project\Office\Test\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.genruntimeconfig.cache
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csprojAssemblyReference.cache
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.AssemblyInfoInputs.cache
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.AssemblyInfo.cs
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.exe
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.deps.json
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.runtimeconfig.json
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.runtimeconfig.dev.json
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.pdb
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Data.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.pdb
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Data.pdb
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.RazorTargetAssemblyInfo.cache
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csproj.CopyComplete
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCart.API.StaticWebAssets.Manifest.cache
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCart.API.StaticWebAssets.xml
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.dll
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.pdb
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.genruntimeconfig.cache
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csproj.CoreCompileInputs.cache
+D:\Project\Office\Working\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.exe
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.deps.json
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.runtimeconfig.json
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.runtimeconfig.dev.json
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.pdb
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Data.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.pdb
+C:\Cart Function\ShoppingCart\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Data.pdb
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csprojAssemblyReference.cache
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.AssemblyInfoInputs.cache
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.AssemblyInfo.cs
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csproj.CoreCompileInputs.cache
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.RazorTargetAssemblyInfo.cache
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csproj.CopyComplete
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCart.API.StaticWebAssets.Manifest.cache
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCart.API.StaticWebAssets.xml
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.dll
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.pdb
+C:\Cart Function\ShoppingCart\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.genruntimeconfig.cache
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.exe
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.deps.json
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.runtimeconfig.json
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.runtimeconfig.dev.json
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.API.pdb
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Data.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.pdb
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\ShoppingCart.Data.pdb
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csprojAssemblyReference.cache
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.AssemblyInfoInputs.cache
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.AssemblyInfo.cs
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.RazorTargetAssemblyInfo.cache
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csproj.CopyComplete
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCart.API.StaticWebAssets.Manifest.cache
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCart.API.StaticWebAssets.xml
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.pdb
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.genruntimeconfig.cache
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.csproj.CoreCompileInputs.cache
+D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.API\obj\Debug\netcoreapp3.1\ShoppingCart.API.MvcApplicationPartsAssemblyInfo.cache

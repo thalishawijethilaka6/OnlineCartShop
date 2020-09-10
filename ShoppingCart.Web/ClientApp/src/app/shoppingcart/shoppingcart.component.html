@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col">
+        <app-filters></app-filters>
+    </div>
+    <div class="col-md-8">
+        <app-product-list></app-product-list>
+    </div>
+    <div class="col">
+        <!--<app-cart></app-cart>-->
+        <a href="#" class="nav-item nav-link messages" [routerLink]="['/shoppingcart/cart/cart']">
+            <i class="fa fa-shopping-cart"></i><span class="badge"
+              *ngIf="this.cartService.getNumberOfItems()">{{this.cartService.getNumberOfItems()}}</span>
+          </a>
+      <!-- <p>Car Infor</p> -->
+    </div>
+</div>
+
