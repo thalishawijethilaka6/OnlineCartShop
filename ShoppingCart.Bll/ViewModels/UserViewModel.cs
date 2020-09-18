@@ -8,6 +8,7 @@ namespace ShoppingCart.Bll.Service
 {
     public class UserViewModel
     {
+        public int UserId { get; set; }
         [Required]
         public string UserName { get; set; }
 

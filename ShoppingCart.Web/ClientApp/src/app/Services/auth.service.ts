@@ -6,17 +6,19 @@ import { User } from '../shared/Models/user.model';
 import { environment } from '../../environments/environment';
 import { StorageService } from './storage.service';
 import { Router } from '@angular/router';
+import { userUrl } from 'src/config/api';
 
 @Injectable({
   providedIn: 'root'
 })
 export class AuthService {
 
-  constructor(private http: HttpClient, private storageService: StorageService,private router: Router) {
-
+  constructor(
+    private http: HttpClient, 
+    private storageService: StorageService, 
+    private router: Router) {
   }
 
-  //Check whether the user is logged or not.
   get isLoggedIn(): boolean {
     if (sessionStorage.getItem('auth_token') != null) {
       return true
@@ -45,7 +47,7 @@ export class AuthService {
       'Content-Type': 'application/json'
     });
     let options = { headers: headers };
-    return this.http.post(environment.apiUrl + '/user/register', userRegistration, options)
+    return this.http.post(userUrl + '/register', userRegistration, options)
       .pipe(
         map((data: any) => {
           return data;
@@ -56,12 +58,10 @@ export class AuthService {
   }
 
   login(username: string, password: string) {
-    return this.http.post(environment.apiUrl + '/user/Authenticate', { username, password })
+    return this.http.post(userUrl + '/Authenticate', { username, password })
       .pipe(
         map((data: any) => {
-          // localStorage.setItem('auth_token', data.token);
-          // localStorage.setItem('logged_userName', data.username);
-          // localStorage.setItem('user_fullName', data.firstName + ' ' + data.lastName);
+          sessionStorage.setItem('user_id', this.storageService.encryptData(data.userId))
           sessionStorage.setItem('auth_token', this.storageService.encryptData(data.token))
           sessionStorage.setItem('logged_userName', this.storageService.encryptData(data.username))
           sessionStorage.setItem('user_fullName', this.storageService.encryptData(data.firstName + ' ' + data.lastName))
@@ -72,10 +72,38 @@ export class AuthService {
       )
   }
 
+  updateUser(userUpdate: any) {
+    let headers = new HttpHeaders({
+      'Content-Type': 'application/json'
+    });
+    let options = { headers: headers };
+    return this.http.put(userUrl + '/UpdateUser', userUpdate, options)
+      .pipe(
+        map((data: any) => {
+          return data;
+        }), catchError(error => {
+          return throwError(error);
+        })
+      )
+  }
+
+  registerCard(paymentUpdate: any) {
+    let headers = new HttpHeaders({
+      'Content-Type': 'application/json'
+    });
+    let options = { headers: headers };
+    return this.http.put(userUrl + '/RegisterCard', paymentUpdate, options)
+      .pipe(
+        map((data: any) => {
+          return data;
+        }), catchError(error => {
+          return throwError(error);
+        })
+      )
+  }
+
   logOut() {
-    // let removeToken = localStorage.removeItem('auth_token');
-    // let removeUser = localStorage.removeItem('logged_userName');
-    // let removeUserName = localStorage.removeItem('user_fullName');
+    sessionStorage.removeItem('user_id')
     sessionStorage.removeItem('auth_token')
     sessionStorage.removeItem('logged_userName')
     sessionStorage.removeItem('user_fullName')

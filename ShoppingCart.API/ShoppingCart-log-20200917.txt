@@ -1,0 +1,9 @@
+2020-09-17 18:58:20.759 -07:00 [Information] User profile is available. Using '"C:\Users\Thaleesha-\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-09-17 18:58:22.381 -07:00 [Information] Creating key {b1933bfc-25eb-464c-b1ac-c57e3a7dda85} with creation date 2020-09-18 01:58:22Z, activation date 2020-09-18 11:40:50Z, and expiration date 2020-12-17 01:58:21Z.
+2020-09-17 18:58:22.570 -07:00 [Information] Writing data to file '"C:\Users\Thaleesha-\AppData\Local\ASP.NET\DataProtection-Keys\key-b1933bfc-25eb-464c-b1ac-c57e3a7dda85.xml"'.
+2020-09-17 18:58:23.564 -07:00 [Information] Application started. Press Ctrl+C to shut down.
+2020-09-17 18:58:23.564 -07:00 [Information] Hosting environment: "Development"
+2020-09-17 18:58:23.565 -07:00 [Information] Content root path: "D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.API"
+2020-09-17 18:58:23.719 -07:00 [Information] Request starting HTTP/1.1 GET http://localhost:4000/Values  
+2020-09-17 18:58:23.742 -07:00 [Warning] Failed to determine the https port for redirect.
+2020-09-17 18:58:24.508 -07:00 [Information] Request finished in 796.4782ms 404 

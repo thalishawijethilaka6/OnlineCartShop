@@ -30,19 +30,19 @@ C:\Cart Function\ShoppingCart\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingC
 C:\Cart Function\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csprojAssemblyReference.cache
 C:\Cart Function\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.AssemblyInfoInputs.cache
 C:\Cart Function\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.AssemblyInfo.cs
-C:\Cart Function\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csproj.CoreCompileInputs.cache
 C:\Cart Function\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csproj.CopyComplete
 C:\Cart Function\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.dll
 C:\Cart Function\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.pdb
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.deps.json
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.dll
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.pdb
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Data.dll
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Data.pdb
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csprojAssemblyReference.cache
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.AssemblyInfoInputs.cache
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.AssemblyInfo.cs
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csproj.CoreCompileInputs.cache
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csproj.CopyComplete
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.dll
-D:\ThalishaAssigment\girl\ShoppingCart-master\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.pdb
+C:\Cart Function\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csproj.CoreCompileInputs.cache
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.deps.json
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.dll
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Bll.pdb
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Data.dll
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\bin\Debug\netcoreapp3.1\ShoppingCart.Data.pdb
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csprojAssemblyReference.cache
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.AssemblyInfoInputs.cache
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.AssemblyInfo.cs
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csproj.CoreCompileInputs.cache
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.csproj.CopyComplete
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.dll
+D:\ThalishaAssigment\girl\ShoppingCart\ShoppingCart.Bll\obj\Debug\netcoreapp3.1\ShoppingCart.Bll.pdb
